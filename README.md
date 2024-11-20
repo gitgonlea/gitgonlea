@@ -1,7 +1,5 @@
-## Hi, I'm Lane Wagner
+## Hi, I'm Enzo Gonzaléz
 
-🖥️ I've been coding in Go primarily for over 6 years
-🏗️ I'm the founder of Boot.dev
-🦀 I’m learning Rust and Vue.js at the moment
-🐦 You can follow me on Twitter @wagslane
-🎤 You can also listen to my podcast on BackendBanter.fm
+🖥️ I've been coding in Javascript primarily for over 5 years<br/>
+💾 I like everything that has to do with databases<br/>
+🦀 I’m learning Typescript and Nestjs at the moment<br/>
